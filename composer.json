@@ -19,7 +19,7 @@
         "squizlabs/php_codesniffer": "~2.3"
     },
     "autoload": {
-        "psr-4": {"VideoCloud\\": "php-sdk/src/VideoCloud"},
-        "files": ["php-sdk/src/VideoCloud/functions.php"]
+        "psr-4": {"VideoCloud\\": "src/VideoCloud"},
+        "files": ["src/VideoCloud/functions.php"]
     }
 }
